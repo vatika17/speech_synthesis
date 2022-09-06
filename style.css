@@ -14,7 +14,8 @@ body{
 }
 ::selection{
   color: #fff;
-  background: #5256AD;
+  background-image: url("Sound-Wave-iStock-640x353.jpg");
+/*   background: #5256AD; */
 }
 .wrapper{
   width: 370px;
