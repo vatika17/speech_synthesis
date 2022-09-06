@@ -10,11 +10,12 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  background: url(Sound-Wave-iStock-640x353.jpg);
 /*   background: #5256AD; */
 }
 ::selection{
   color: #fff;
-  background-image: url("Sound-Wave-iStock-640x353.jpg");
+  background: url(Sound-Wave-iStock-640x353.jpg);
 /*   background: #5256AD; */
 }
 .wrapper{
