@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #5256AD;
+/*   background: #5256AD; */
 }
 ::selection{
   color: #fff;
